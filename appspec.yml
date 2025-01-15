@@ -1,5 +1,6 @@
 version: 0.0
 os: linux
+
 files:
-  - source: /example.txt
-    destination: /var/www/html/
+  - source: example.txt
+    destination: /home/ubuntu/deployment_directory/example.txt
