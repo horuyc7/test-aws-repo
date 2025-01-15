@@ -3,4 +3,4 @@ os: linux
 
 files:
   - source: /example.txt
-    destination: /home/ubuntu/deployment_directory/example.txt
+    destination: /home/ubuntu/deployment_directory/
